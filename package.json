@@ -1,0 +1,19 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "homework late",
+  "main": "movieApp.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.4",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaehoi koo",
+  "license": "ISC"
+}
